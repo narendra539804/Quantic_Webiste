@@ -30,7 +30,7 @@ a {
 }
 .line-tail {
   margin-left: 8%;
-  padding: 15px;
+  padding: 12px;
 }
 li {
   list-style: url(hand-point-right-solid.svg);
@@ -38,4 +38,8 @@ li {
 .footer {
   text-align: center;
   margin: 50px;
+}
+.line-inner {
+  margin-left: 16%;
+  padding: 12px;
 }
