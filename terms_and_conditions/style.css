@@ -6,12 +6,18 @@ a {
   text-decoration: none !important;
 }
 
+body {
+  background-color: #404a58;
+  color: antiquewhite;
+}
 .container {
   font-size: large;
 }
 .heading {
   text-align: center;
   margin: 100px;
+  color: royalblue;
+  font-weight: bold;
 }
 .heading-bottom {
   margin-top: 20px;

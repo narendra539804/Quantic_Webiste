@@ -22,6 +22,9 @@ a {
 body {
   overflow-x: hidden;
 }
+.footer-copyright {
+  font-size: small;
+}
 
 ul {
   list-style: none;
