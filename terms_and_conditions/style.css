@@ -1,0 +1,41 @@
+* {
+  font-family: "Source Sans Pro", sans-serif;
+  outline: none !important;
+}
+a {
+  text-decoration: none !important;
+}
+
+.container {
+  font-size: large;
+}
+.heading {
+  text-align: center;
+  margin: 100px;
+}
+.heading-bottom {
+  margin-top: 20px;
+  margin-bottom: -70px;
+}
+.section-content {
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 980px;
+  position: relative;
+  z-index: 1;
+}
+.line-head {
+  padding: 0px;
+}
+.line-tail {
+  margin-left: 8%;
+  padding: 15px;
+}
+li {
+  list-style: url(hand-point-right-solid.svg);
+}
+.footer {
+  text-align: center;
+  margin: 50px;
+}
