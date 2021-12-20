@@ -6,17 +6,35 @@ a {
   text-decoration: none !important;
 }
 
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: inherit;
+  font-weight: 400 !important;
+  line-height: 1.1;
+  color: inherit;
+}
 body {
-  background-color: #404a58;
-  color: antiquewhite;
+  background-color: white;
+  color: black;
+  text-align: justify;
 }
 .container {
   font-size: large;
 }
 .heading {
   text-align: center;
-  margin: 100px;
-  color: royalblue;
+  margin: 75px;
+  color: black;
   font-weight: bold;
 }
 .heading-bottom {
@@ -33,9 +51,11 @@ body {
 }
 .line-head {
   padding: 0px;
+  color: black;
+  font-weight: bold;
 }
 .line-tail {
-  margin-left: 8%;
+  margin-left: 2%;
   padding: 12px;
 }
 li {
@@ -46,6 +66,6 @@ li {
   margin: 50px;
 }
 .line-inner {
-  margin-left: 16%;
+  margin-left: 5%;
   padding: 12px;
 }
